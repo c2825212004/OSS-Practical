@@ -1,0 +1,5 @@
+# CODE FOR ADDING TWO NUMBERS
+a= 28;
+b= 25;
+z= a + b;
+print("Addition of", a, "and",b,"is",z);
